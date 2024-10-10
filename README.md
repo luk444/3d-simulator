@@ -1,3 +1,4 @@
+![Demostracion-gif](https://github.com/user-attachments/assets/b72a3fee-10a7-466b-a1bb-94543c3f96a3)
 
 # Getting Started with Create React App
 
